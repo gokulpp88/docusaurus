@@ -2,6 +2,7 @@
 id: plugin-content-docs
 title: '📦 plugin-content-docs'
 slug: '/api/plugins/@docusaurus/plugin-content-docs'
+tags: [tags]
 ---
 
 Provides the [Docs](../../guides/docs/docs-introduction.md) functionality and is the default docs plugin for Docusaurus.
@@ -279,6 +280,7 @@ keywords:
   - docusaurus
 image: https://i.imgur.com/mErPwqL.png
 slug: /myDoc
+tags: [tags]
 ---
 # Markdown Features
 
